@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/django-intro3-cmadisonne.iml
+.idea/modules.xml
+.idea/workspace.xml
